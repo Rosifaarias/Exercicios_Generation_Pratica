@@ -53,10 +53,10 @@ public class pratica_3 {
 	               
 	        }
 
-	        // Calcula o valor da compra
+	      
 	        valordaCompra = quantidade * preco;
 	        
-	        // Exibe as informações do produto selecionado
+	        // Saída de dados
 	        System.out.println("Produto: " + nomeProduto);
 	        System.out.println("Preço Total: R$ " + valordaCompra);
 	    }
