@@ -10,7 +10,7 @@ public class Pratica_ArrayList {
 		// CRIANDO O ARRAYLIST
 		ArrayList<String> cores = new ArrayList<String>();
 
-		// ENTRADA DE DADOS USUARIO
+		
 		Scanner leia = new Scanner(System.in);
 
 		System.out.println(" *******Digite 5 cores: ***********");

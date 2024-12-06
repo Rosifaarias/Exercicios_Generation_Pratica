@@ -8,8 +8,7 @@ public class Pratica_Set {
 
 	public static void main(String[] args) {
 
-		// variavel para guardar os numeros
-
+		
 		int numero;
 
 		Set<Integer> numerosSet = new HashSet<>();
